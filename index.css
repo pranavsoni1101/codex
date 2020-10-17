@@ -1,0 +1,32 @@
+body {
+    background-color: #c2ecf2;
+}
+
+/* Navbar Styles start */
+.bg-dark{
+    background-color: #011526 !important;
+}
+
+.nav-link{
+    color: rgba(255, 255,255, 0.7) !important;
+    transition: ease-in-out 0.5s;
+}
+
+.nav-link:hover {
+    color: #B3ECF2!important;
+}
+/* Navbar Styles End */
+
+.header{
+    background-color: #e6f3f5;
+    padding: 0.8em 0;
+}
+
+/* Card Styles */
+.card{
+    width: 20em;
+    height: 10em;
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
+    border-radius: none !important;
+}
+/* Card Styles End */
